@@ -1,0 +1,17 @@
+regime,model,var_95,cvar_95,median_final
+low_stable,Non-GPR,-69.07,-74.23,902.0
+low_stable,GPR-enabled,-68.02,-74.23,911.0
+low_stable,GPR+Heston,-53.78,-61.28,1203.0
+low_stable,GPR+fBM,-52.92,-61.78,1194.0
+low_rising,Non-GPR,-69.07,-74.23,902.0
+low_rising,GPR-enabled,-74.1,-78.74,739.0
+low_rising,GPR+Heston,-53.94,-61.51,1201.0
+low_rising,GPR+fBM,-57.4,-65.42,1080.0
+high_rising,Non-GPR,-69.07,-74.23,902.0
+high_rising,GPR-enabled,-67.54,-73.7,925.0
+high_rising,GPR+Heston,-55.2,-62.64,1190.0
+high_rising,GPR+fBM,-55.66,-64.01,1124.0
+high_falling,Non-GPR,-69.07,-74.23,902.0
+high_falling,GPR-enabled,-65.35,-72.15,980.0
+high_falling,GPR+Heston,-54.89,-62.42,1191.0
+high_falling,GPR+fBM,-50.01,-59.42,1268.0

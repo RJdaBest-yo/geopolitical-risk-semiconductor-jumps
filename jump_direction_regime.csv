@@ -1,0 +1,5 @@
+regime,days,neg_jump_pct,pos_jump_pct,net_bias
+low_stable,3166,11.6,13.5,2.0
+low_rising,862,18.4,17.6,-0.8
+high_rising,2732,11.4,12.9,1.5
+high_falling,1294,11.9,15.3,3.4

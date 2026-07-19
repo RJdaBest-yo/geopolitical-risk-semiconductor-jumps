@@ -1,0 +1,16 @@
+metric,value
+cycle_mean,0.5990159280586876
+cycle_std,0.02362945499836716
+cycle_min,0.5311640696608616
+cycle_max,0.6336580086580087
+cycle_95ci_low,0.5886598627997539
+cycle_95ci_high,0.6093719933176214
+year_mean,0.581
+year_std,0.134
+year_min,0.378
+year_max,0.798
+year_95ci_low,0.5250049638563624
+year_95ci_high,0.6369950361436375
+best_cycle,19.0
+best_hit_rate,0.634
+regime_stability,1.0

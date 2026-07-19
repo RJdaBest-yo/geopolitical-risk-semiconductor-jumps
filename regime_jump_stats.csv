@@ -1,0 +1,5 @@
+regime,days,jump_prob,mean_return
+low_stable,2583,11.2,1.1
+low_rising,639,19.1,0.02
+high_rising,2218,10.3,0.69
+high_falling,1003,8.5,1.12

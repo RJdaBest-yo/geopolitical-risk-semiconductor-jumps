@@ -1,0 +1,12 @@
+metric,value
+n_cycles,20.0
+mean_hit_rate,0.5990159280586876
+std_hit_rate,0.02362945499836716
+best_hit_rate,0.6336580086580087
+expected_max,0.6431614601683698
+observed_best,0.6336580086580087
+difference_pp,-0.009503451510361138
+t_statistic,18.26535670156325
+p_value,1.6459372913976776e-13
+bonferroni_alpha,0.0025
+n_significant_fdr,20.0

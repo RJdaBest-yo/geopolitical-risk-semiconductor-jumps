@@ -1,0 +1,2 @@
+method,data_period,trading_days,hurst_exponent,regime,paper_assumption,difference,consistent
+R/S Analysis,1994-06-01 to 2018-12-31,6191,0.55,momentum (trend persistence),0.55,0.0,True
